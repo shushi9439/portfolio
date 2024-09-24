@@ -12,19 +12,43 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "Vue",
+    "imageSrc": "skills/vuejs.png"
+  },
+  {
+    "title": "Next",
+    "imageSrc": "skills/nextjs.png"
+  },
+  {
+    "title": "Nuxt",
+    "imageSrc": "skills/nuxtjs.png"
+  },
+  {
     "title": "Node",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Flutter",
+    "imageSrc": "skills/flutter.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/springboot.png"
+  },
+  {
+    "title": "Ktor",
+    "imageSrc": "skills/ktor.png"
+  },
+  {
+    "title": "Djoango",
+    "imageSrc": "skills/django.png"
   }
 ]

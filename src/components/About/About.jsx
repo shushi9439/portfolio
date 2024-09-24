@@ -20,7 +20,7 @@ export const About = () => {
               <h3>Frontend Developer</h3>
               <p>
                 I'm a frontend developer with experience in building responsive
-                and optimized sites
+                and optimized sites using ReactJS, VueJS, NextJS and NuxtJS.
               </p>
             </div>
           </li>
@@ -30,17 +30,17 @@ export const About = () => {
               <h3>Backend Developer</h3>
               <p>
                 I have experience developing fast and optimised back-end systems
-                and APIs
+                and APIs using SpringBoot, django, ktor and NodeJS.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Mobile Developer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I have developed multiple mobile applications and have release
+                them on play store and app store using Flutter or React Native.
               </p>
             </div>
           </li>
