@@ -43,10 +43,7 @@
     "title": "Spring Boot",
     "imageSrc": "skills/springboot.png"
   },
-  {
-    "title": "Ktor",
-    "imageSrc": "skills/ktor.png"
-  },
+
   {
     "title": "Djoango",
     "imageSrc": "skills/django.png"
