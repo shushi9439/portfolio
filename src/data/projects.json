@@ -1,26 +1,32 @@
 [
   {
-    "title": "Project A",
+    "title": "Optra India",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a education domain where parents can see there kids performance.",
+    "skills": ["React Native"]
   },
   {
-    "title": "Project B",
+    "title": "Sunrise Constructions",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a construction based project where management can track the progress of multiple sites.",
+    "skills": ["React", "Express", "Node", "MongoDB"]
   },
   {
-    "title": "Project C",
+    "title": "Klondike Financials",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a finance domain mobile application where one can track there investments, debts and insurances.",
+    "skills": ["Flutter", "Spring Boot", "postgreSQL"]
+  },
+  {
+    "title": "Yimby Technologies",
+    "imageSrc": "projects/project.png",
+    "description": "This is a construction domain project where developers can figure out whether project should be build or not with the help of population near site.",
+    "skills": ["React Native", "Express", "MySQL", "React"]
+  },
+  {
+    "title": "Mobex",
+    "imageSrc": "projects/project.png",
+    "description": "This is a health domain project where old citizen cam access there respective hospitals. Other family members can be notified in case of heart attack using devices.",
+    "skills": ["Flutter", "Node", "Express", "Vue", "MySQL"]
   }
 ]
